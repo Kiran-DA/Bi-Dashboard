@@ -49,25 +49,17 @@ The data for this dashboard comes from the following sources:
 
     ### Dashboard Navigation:
 
-        Use the date slicer to filter data by time (e.g., month, quarter, or year).
-
         Apply region filters to analyze performance in specific geographical locations.
 
-        Use category filters to focus on specific product categories or subcategories.
+        Use sub-category filters to focus on specific product subcategories and cities.
 
-        Hover over or click on various charts to see more detailed information or drill-down options.
+        Click on filter to see more detailed information or drill-down options.
 
    ### Performance Insights:
 
         The sales trend chart helps to identify patterns in sales performance over time.
 
         The profitability by region chart shows which areas are contributing the most to profits.
-
-        The top performer visuals highlight the products and sales representatives that are driving the most sales.
-
-    Comparing Sales to Targets:
-
-        The Sales vs. Targets section helps track if sales are meeting set targets for specific periods.
 
 ## Dashboard Structure
 
